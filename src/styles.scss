@@ -1,3 +1,12 @@
+$font-display: 'IM Fell French Canon SC', serif;
+$font-text: 'Heebo', sans-serif;
+$background-primary: #222222;
+$background-secondary: #464646;
+$red: #FF5252;
+$white: #FFFFFF;
+$blue: #5252FF;
 body {
-  background-color: blue;
+  font-family: $font-text;
+  background-color: $background-primary;
+  color: $white;
 }
